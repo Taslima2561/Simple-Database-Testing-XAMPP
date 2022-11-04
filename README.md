@@ -3,51 +3,53 @@
 ## CREATE TABLE:
 
 BUGRESISTANCE TABLE
-![](./images/1.png)
+![](./images/1.PNG)
 
 UNIVERSITY TABLE
-![](./images/2.png)
+![](./images/2.PNG)
 
 ## INSERT VALUES:
 
 INSERTING VALUES IN BUGRESISTANCE TABLE
-![](./images/3.png)
+![](./images/3.PNG)
 
 INSERTING VALUES IN THE UNIVERSITY TABLE
-![](./images/4.png)
+![](./images/4.PNG)
 
 ## BUGRESISTANCE TABLE:
 
-![](./images/5.png)
+![](./images/5.PNG)
 
 ## UNIVERSITY TABLE:
 
-![](./images/6.png)
+![](./images/6.PNG)
 
 ORDER BY CITY IN DESCENDING ORDER:
-![](./images/7.png)
+![](./images/7.PNG)
 
-![](./images/8.png)
+![](./images/8.PNG)
 
 MAX INCOME INFORMATION:
-![](./images/9.png)
+![](./images/9.PNG)
 
 INNER JOIN:
-![](./images/10.png)
+![](./images/10.PNG)
 
 LEFT JOIN:
-![](./images/11.png)
+![](./images/11.PNG)
 
 RIGHT JOIN:
-![](./images/12.png)
+![](./images/12.PNG)
 
 FULL JOIN USING UNION:
-![](./images/13.png)
+![](./images/13.PNG)
 
-![](./images/14.png)
+![](./images/14.PNG)
 
-![](./images/15.png)
+![](./images/15.PNG)
 
-![](./images/16.png)
+![](./images/16.PNG)
 
-![](./images/17.png)
+![](./images/17.PNG)
+
+![](./images/18.PNG)
