@@ -1,55 +1,73 @@
-# Database Testing
+# Database Testing Using XAMPP
 
-## CREATE TABLE:
+## Create University Table:
 
-BUGRESISTANCE TABLE
 ![](./images/1.PNG)
 
-UNIVERSITY TABLE
+## Insert Values in University:
+
 ![](./images/2.PNG)
 
-## INSERT VALUES:
+## University Table:
 
-INSERTING VALUES IN BUGRESISTANCE TABLE
 ![](./images/3.PNG)
 
-INSERTING VALUES IN THE UNIVERSITY TABLE
+## Find Data by City:
+
 ![](./images/4.PNG)
 
-## BUGRESISTANCE TABLE:
+## Between Operator select values:
 
 ![](./images/5.PNG)
 
-## UNIVERSITY TABLE:
+## MAX Function:
 
 ![](./images/6.PNG)
 
-ORDER BY CITY IN DESCENDING ORDER:
+## MIN Function:
+
 ![](./images/7.PNG)
+
+## Create Student Table:
 
 ![](./images/8.PNG)
 
-MAX INCOME INFORMATION:
+## Insert values in Student:
+
 ![](./images/9.PNG)
 
-INNER JOIN:
+## Student Table:
+
 ![](./images/10.PNG)
 
-LEFT JOIN:
+## Insert Values in Inner Join:
+
 ![](./images/11.PNG)
 
-RIGHT JOIN:
+## Inner Join Table:
+
 ![](./images/12.PNG)
 
-FULL JOIN USING UNION:
+## Insert Values in Left Join:
+
 ![](./images/13.PNG)
+
+## Left Join Table:
 
 ![](./images/14.PNG)
 
+## Insert Values in Right Join:
+
 ![](./images/15.PNG)
+
+## Right Join Table:
 
 ![](./images/16.PNG)
 
+## Insert Values in Full Join:
+
 ![](./images/17.PNG)
+
+## Full Join Table:
 
 ![](./images/18.PNG)
